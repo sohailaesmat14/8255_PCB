@@ -34,4 +34,4 @@ The 8255 Programmable Peripheral Interface (PPI) PCB is a custom-designed printe
 
 ## Author
 
-- **Sohaila Esmat:** [LinkedIn](https://www.linkedin.com/in/sohailaesmat/) | [GitHub](https://github.com/yourusername)
+- **Sohaila Esmat:** [LinkedIn](https://www.linkedin.com/in/sohailaesmat/)
